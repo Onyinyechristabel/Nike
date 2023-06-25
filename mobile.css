@@ -1,0 +1,19 @@
+@media screen and (max-width: 768px) {
+  html {
+    font-size: 5px;
+  }
+  aside {
+    top: 8.5vh;
+  }
+  nav {
+    top: 5rem;
+    padding: 0 3rem 0rem 5rem;
+  }
+  .circle {
+    width: 5rem;
+    height: 5rem;
+  }
+  logo {
+    width: 15rem;
+  }
+}
